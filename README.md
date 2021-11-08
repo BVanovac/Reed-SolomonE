@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Reed-SolomonE
-- 👀 I’m interested in ... Career opportunitites via Blockchain   
-- 🌱 I’m currently learning ... Full stack Blockchain
-- 💞️ I’m looking to collaborate on ... Solidiarity>Chain>Governance
+- 👀 I’m interested in ... Fullstack Developer 
+- 🌱 I’m currently learning ... Full stack Development
+- 💞️ I’m looking to collaborate on ... Software Development
 - 📫 How to reach me ... vanovac589@gmail.com
 
 <!---

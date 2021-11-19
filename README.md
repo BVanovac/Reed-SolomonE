@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Reed-SolomonE
+- 👋 Hi, I’m @Bojan Vanovac
 - 👀 I’m interested in ... Fullstack Developer 
 - 🌱 I’m currently learning ... Full stack Development
 - 💞️ I’m looking to collaborate on ... Software Development
